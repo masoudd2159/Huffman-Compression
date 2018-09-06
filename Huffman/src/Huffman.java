@@ -5,6 +5,8 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
+//Masoud Dabbaghi
+
 public final class Huffman {
 
     private Huffman() {
